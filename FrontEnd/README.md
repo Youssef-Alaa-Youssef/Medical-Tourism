@@ -1,4 +1,4 @@
-## ***Wellness***
+## ***Medical Tourism***
 
 *This project is a frontend application built with React, React Router DOM, and JWT Token Django Rest Framework. The application is designed to consume a RESTful API built with Django Rest Framework that uses JSON Web Tokens (JWT) for authentication.*
 
