@@ -38,6 +38,9 @@
  - Run ```python manage.py runserver``` to start the Django server
  - Navigate to the frontend directory and run ```npm start``` to start the React development server
  - Open your browser and navigate to http://localhost:3000 to view the application
+## Authors
+
+ - Youssef Alaa Youssef 
 
 ## License
 This project is licensed under the MIT License. See the **LICENSE** file for more information.
