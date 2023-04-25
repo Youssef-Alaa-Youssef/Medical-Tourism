@@ -21,7 +21,7 @@ To install the API, follow these steps:
 
  - Clone the repository to your local machine.
  ```bash
- git clone https://github.com/your_username/medical-tourism-api.git
+ git clone https://github.com/Youssef-Alaa-Youssef/medical-tourism-api.git
  cd medical-tourism-api
  ```
  
