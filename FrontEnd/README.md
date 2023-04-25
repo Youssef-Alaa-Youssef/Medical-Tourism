@@ -59,9 +59,6 @@ This React application has the following features:
 ## Authors
 
  - Youssef Alaa Youssef Othamn
- - David Akram Ezzat Mowaed
- - Mohamed Amr Salah
- - Mohamed badr Makram
 
 ## License
 
