@@ -20,10 +20,7 @@ The following dependencies are required to run the API:
 To install the API, follow these steps:
 
  - Clone the repository to your local machine.
- ```bash
- git clone https://github.com/Youssef-Alaa-Youssef/medical-tourism-api.git
- cd medical-tourism-api
- ```
+
  
  - Create a virtual environment and activate it.
  ```bash
