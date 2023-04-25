@@ -41,13 +41,11 @@ source env/bin/activate
  ```
  
  ## API documentation Using Swagger
- ```bash
 
 
 - **Swagger UI**: [http://localhost:8000/swagger/](http://localhost:8000/swagger/)
 
  
- ```
  
  
 ## License
