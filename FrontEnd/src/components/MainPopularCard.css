@@ -1,0 +1,10 @@
+#cardBody{
+    background-color: rgba(255, 255, 255, 0.747) !important;
+    box-shadow: 3px 3px 3px black;
+}
+
+#buttonCard{
+    color: white !important;
+    font-weight: bold;
+    font-size: 15px;
+}

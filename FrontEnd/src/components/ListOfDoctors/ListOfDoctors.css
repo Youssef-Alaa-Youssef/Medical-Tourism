@@ -1,0 +1,19 @@
+
+.title2 h2 {
+    font-size: 8.25rem ;
+    font-weight: 600 ;
+    color: rgba(148, 137, 137, 0.3);
+    }
+    .title2 h3{
+        font-weight: 600 ;
+        font-size: 2.25rem ;
+    }
+    .title2 h3::after{
+        content: "";
+        height: 3px;
+        width: 57%;
+        background-color: #20C997;
+        position: absolute;
+        top: 108%;
+        left: 20%;
+    }

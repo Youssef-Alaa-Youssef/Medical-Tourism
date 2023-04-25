@@ -1,0 +1,68 @@
+:root{
+--color:#72d5cae3
+}
+.containerloader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background-color: rgb(0 0 0 / 94%); */
+  }
+  
+  .center-ball {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+  }
+  
+  .orbit {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top: calc(50% - 100px);
+    left: calc(50% - 100px);
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+  
+  .orbit1 {
+    animation-name: orbit1;
+  }
+  
+  .orbit2 {
+    animation-name: orbit2;
+  }
+  
+  .orbit3 {
+    animation-name: orbit3;
+  }
+  
+  .orbit-ball {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: calc(50% - 25px);
+    left: calc(50% - 25px);
+    color: var(--color);
+    font-size: 70px;
+  }
+  
+  @keyframes orbit1 {
+    from { transform: rotate(0deg) translateX(100px) rotate(0deg); }
+    to { transform: rotate(360deg) translateX(100px) rotate(-360deg); }
+  }
+  
+  @keyframes orbit2 {
+    from { transform: rotate(120deg) translateX(100px) rotate(-120deg); }
+    to { transform: rotate(480deg) translateX(100px) rotate(-480deg); }
+  }
+  
+  @keyframes orbit3 {
+    from { transform: rotate(240deg) translateX(100px) rotate(-240deg); }
+    to { transform: rotate(600deg) translateX(100px) rotate(-600deg); }
+  }
+  

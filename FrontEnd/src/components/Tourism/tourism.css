@@ -1,0 +1,12 @@
+#tour{
+    height: 40vh !important;
+    box-shadow: 1px 1px 20px 5px #373b3e !important;
+
+
+}
+
+.photoTourism{
+    background:url(../../images/tourism.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,11 @@
+#dent{
+    height: 40vh !important;
+    box-shadow: 1px 1px 20px 5px #373b3e !important;
+
+
+}
+.image_div{
+    background:url(../../images/tooth.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

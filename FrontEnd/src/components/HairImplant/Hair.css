@@ -1,0 +1,10 @@
+#hair{
+    height: 40vh !important;
+    box-shadow: 1px 1px 20px 5px #373b3e !important;
+
+
+}
+.img_hair{
+    background:url(../../images/Hair.png);
+    background-repeat: no-repeat;
+}

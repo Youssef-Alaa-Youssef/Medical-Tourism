@@ -1,0 +1,50 @@
+@media(max-width:1000px){
+.he{
+    height: 85vh !important
+    }
+.fe{
+    margin-top: 16% !important;
+}
+}
+
+@media(max-width:770px){
+    .he{
+        height: 160vh !important;
+        }
+    .fe{
+        margin-top: 30% !important;
+    }
+    }
+    
+
+    @media(max-width:1000px){
+.se{
+    height:50vh !important;
+}
+        }
+
+@media(max-width:880px){
+    .tit h2 {
+        display: none;
+        }
+
+            }
+    
+.tit h2 {
+    font-size: 700% ;
+    font-weight: 600 ;
+    color: rgba(148, 137, 137, 0.3);
+    }
+    .tit h3{
+        font-weight: 600 ;
+        font-size: 2.25rem ;
+    }
+    .tit h3::after{
+        content: "";
+        height: 3px;
+        width: 57%;
+        background-color: #092179;
+        position: absolute;
+        top: 108%;
+        left: 20%;
+    }

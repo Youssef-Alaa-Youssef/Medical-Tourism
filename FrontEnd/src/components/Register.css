@@ -1,0 +1,16 @@
+
+#Register{
+    background-image: url(../images/v870-tang-35.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0px !important;
+    padding: 0px !important;
+    box-sizing: border-box !important;
+}
+
+
+#forms{
+    margin-top: 8% !important;
+}

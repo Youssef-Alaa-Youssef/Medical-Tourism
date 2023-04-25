@@ -1,0 +1,123 @@
+.header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 70px;
+    font-family: Fatface;
+    text-align: center !important;
+    text-shadow: 2px 2px 2px #72d5ca8a ;
+}
+
+.para{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Fatface;
+    text-shadow: 2px 2px 2px #72d5ca8a ;
+    text-align: center !important;
+
+  
+}
+.container3{
+    background-color: transparent;
+}
+.mycard{
+    background-color: #f5deb331 !important;
+}
+.container3{
+    margin-top: 20px;
+}
+
+.para2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Fatface;
+    text-shadow: 2px 2px 2px #72d5ca8a ;
+}
+.mycard2{
+    background-color: #f5deb331 !important;
+    box-shadow: 5px 6px 6px #302626;
+}
+
+.info{
+    width: 500px !important;
+    height:500px !important;
+}
+.content{
+    text-align: left !important;
+}
+.readmore{
+    color: #1432558a !important;
+    font-weight: 500;
+    float: right !important;
+}
+.cont{
+    box-shadow: 5px 6px 6px #302626;
+    height: 590px !important;
+}
+.positions{
+    color: white;
+    font-size: 17px;
+    
+}
+.divContent{
+    background-color: rgba(255, 255, 255, 0.158) !important;
+    width: 100%;
+    height: 50px !important;
+
+}
+
+.image{
+    width: 100px !important;
+    height: 100px !important;
+}
+
+.span1{
+    text-align: left !important;
+}
+
+.s1{
+    background-image: url('../images/t1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+
+}
+.s2{
+    background-image: url('../images/2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+
+}
+.s3{
+    background-image: url('../images/4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+
+}
+.i1{
+    background-image: url('../images/4.jpg');
+}
+/* .mohamed:hover{
+    transform: scale(1.2) !important;
+    transition-duration: 3s !important;
+} */
+.T{
+    background-image: url('../images/tourism3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.f4{
+    background-image: url('../images/f4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

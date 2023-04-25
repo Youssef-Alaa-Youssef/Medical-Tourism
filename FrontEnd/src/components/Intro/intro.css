@@ -1,0 +1,16 @@
+#intro{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.mainBtn:hover{
+    background-color:#72d5cacf  !important;
+    outline: white !important;
+    border: white !important;
+}
+body {
+    overflow-x: initial;
+    }
