@@ -38,7 +38,7 @@
  - Run ```python manage.py runserver``` to start the Django server
  - Navigate to the frontend directory and run ```npm start``` to start the React development server
  - Open your browser and navigate to http://localhost:3000 to view the application
-## Authors
+## Author
 
  - Youssef Alaa Youssef 
 
