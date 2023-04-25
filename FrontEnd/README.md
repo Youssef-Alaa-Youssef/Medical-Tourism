@@ -1,6 +1,6 @@
 ## ***Medical Tourism***
 
-*This project is a frontend application built with React, React Router DOM, and JWT Token Django Rest Framework. The application is designed to consume a RESTful API built with Django Rest Framework that uses JSON Web Tokens (JWT) for authentication.*
+**This website offers information and resources for those seeking hair transplants and dental procedures. It provides details on medical facilities, procedures, and travel accommodations. Patients can book appointments and pay for services online.**
 
 ## Getting Started
 
