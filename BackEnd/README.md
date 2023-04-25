@@ -43,7 +43,7 @@ source env/bin/activate
  ## API documentation Using Swagger
 
 
-- **Swagger UI**: [http://localhost:8000/swagger/](http://localhost:8000/swagger/)
+- **Swagger UI**: [http://localhost:8000/swagger/schema](http://localhost:8000/swagger/schema)
 
  
  
